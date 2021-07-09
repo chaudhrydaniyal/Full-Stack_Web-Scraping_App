@@ -2,6 +2,7 @@
 
 
 Dependencies:
+
 •	Node
 •	npm
 •	MySQL
