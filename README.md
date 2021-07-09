@@ -144,7 +144,7 @@ npm start
 
 <!-- USAGE EXAMPLES -->
 
-## Usage
+### Usage
 
   
 
@@ -153,7 +153,7 @@ This App shows the current Manchester City FC squad without having to update eac
 
 <!-- CONTACT -->
 
-## Contact
+### Contact
 
   
 
