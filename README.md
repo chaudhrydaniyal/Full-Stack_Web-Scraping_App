@@ -129,7 +129,7 @@ npm install
 cd src
 node index-server.js
 ```
-4. Running the project
+4. Run the project
 
 ```sh
 
